@@ -8,7 +8,7 @@ I'm a curious front-end Web Developer who enjoys creating art and has a lot of f
 Check it out [My Portfolio](https://mrwsantos.github.io/mrwsantos.io/)!
 
 ### I code with
-<hr>
+<hr/>
 <p style="display: flex">
 <img alt="js logo" title="js logo"  src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" style="width: 30px"/>
 <img alt="typescript logo" title="typescript logo" src="https://camo.githubusercontent.com/aa8b3e6b6fc55ea158e132e1c33ba6aa7fe49706a4e4bd64701af1cf89f514b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" style="width: 30px"/>
@@ -32,8 +32,9 @@ Check it out [My Portfolio](https://mrwsantos.github.io/mrwsantos.io/)!
     <img alt="illustrator Ai logo" title="illustrator Ai logo"  src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" style="width: 30px"/>  
     <img alt="bitbucket logo" title="bitbucket logo"  src="https://camo.githubusercontent.com/4bf839c39c7867c0208f2df1af6025910012516dec40deaea960d1e4d60a0dec/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6269746275636b65742f6269746275636b65742d6f726967696e616c2e737667" style="width: 30px"/>
     <img alt="gitlab logo" title="gitlab logo"  src="https://static-00.iconduck.com/assets.00/gitlab-icon-512x471-wfbmkpzi.png" style="width: 30px"/>
-  
   </p>
+  <hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrwsantos&show_icons=true&theme=nord"/>
 <!--
 **mrwsantos/mrwsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
