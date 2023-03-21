@@ -1,4 +1,11 @@
-### Hi there 👋
+# 👾 Willian Santos
+### Hi there, since you're already here you can call me Mr.W or just Will 👋
+
+**`I work with creativity, for me, it's visceral, it's gut instinct!`**
+
+I'm a curious front-end Web Developer who enjoys creating art and has a lot of fun doing it. To balance things out, I strum the guitar (poorly) and listen to Indie and Rock music. I'm into almost everything that stimulates imagination, such as photography, books, flicks, and photorealistic design. And, just like a _true Developer_, I am passionate about coffee.
+
+Check it out [My Portfolio](https://mrwsantos.github.io/mrwsantos.io/)!
 
 <!--
 **mrwsantos/mrwsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
