@@ -1,4 +1,5 @@
 # 👾 Willian Santos
+
 ### Hi there, since you're already here you can call me Mr.W or just Will 👋
 
 **`I work with creativity, for me, it's visceral, it's gut instinct!`**
@@ -8,6 +9,7 @@ I'm a curious front-end Web Developer who enjoys creating art and has a lot of f
 Check it out [My Portfolio](https://mrwsantos.github.io/mrwsantos.io/)!
 
 ### I code with
+
 <hr/>
 <p style="display: flex">
 <img alt="js logo" title="js logo"  src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" style="width: 30px"/>
@@ -20,6 +22,7 @@ Check it out [My Portfolio](https://mrwsantos.github.io/mrwsantos.io/)!
      <img alt="graphql logo" title="graphql logo"  src="https://i.postimg.cc/SQCCBw0Q/graphql-with-text-small.png" style="width: 30px"/>
   <img alt="apollo logo" title="apollo logo"  src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" style="width: 30px"/>
   <img alt="html logo" title="html logo"  src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" style="width: 30px"/>
+ <img alt="tailwind logo" title="tailwind logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" style="width: 30px" />
 <img alt="css3 logo" title="css logo"  src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" style="width: 30px"/>
   <img alt="sass logo" title="sass logo"  src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" style="width: 30px"/>
   <img alt="less logo" title="less logo" src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css-thumbnail.png" style="width: 30px"/>
@@ -48,4 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
